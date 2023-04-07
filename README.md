@@ -14,7 +14,7 @@ To run this project, you can follow these steps:
 4. Save your bot token to the `config.json` file.
 5. Install the required Python modules by running the following command: 
     ```
-    pip freeze > requirements.txt
+    pip install -r requirements.txt
     ```
 6. Use the following command to run the `run.py` file:
     ```
