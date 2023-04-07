@@ -42,9 +42,10 @@ print("Bot is starting. Please wait...")
 print("Please add the bot to a chat/channel and make it an admin. You can then use the /roll_dice command to roll two dice.")
 
 updater.idle()
-## License
 
-#
+
 ## License
 
 This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for more information.
+
+
