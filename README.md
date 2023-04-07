@@ -14,7 +14,7 @@ To run this project, you can follow these steps:
 4. Save your bot token to the `config.json` file.
 5. Install the required Python modules by running the following command: 
     ```
-    pip install python-telegram-bot==13.7
+    pip freeze > requirements.txt
     ```
 6. Use the following command to run the `run.py` file:
     ```
