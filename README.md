@@ -25,7 +25,7 @@ To run this project, you can follow these steps:
 After adding the bot to a chat or channel, users can use the `/roll_dice` command to roll two dice.
 
 ### Example
-The following code snippet is a section of the `Bot.py` file that defines the `/roll_dice` command:
+The following code snippet is a section of the `rot.py` file that defines the `/roll_dice` command:
 
 ```python
 import telegram
