@@ -44,4 +44,7 @@ print("Please add the bot to a chat/channel and make it an admin. You can then u
 updater.idle()
 ## License
 
+#
+## License
+
 This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for more information.
