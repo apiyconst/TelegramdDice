@@ -1,5 +1,5 @@
 ## Telegram Bot to Roll Two Dice
-![Runing](https://imgyukle.com/f/2023/04/08/QUZ4ee.pngL)
+![Runing](https://imgyukle.com/f/2023/04/08/QUZ4ee.png)
 
 This project is a dice game developed using Python programming language and the Telegram Bot API. This bot allows users to roll two dice with the `/roll_dice` command.
 
