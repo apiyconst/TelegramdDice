@@ -1,5 +1,6 @@
 import telegram
-from telegram.ext import Updater, CommandHandler
+from telegram.ext import CommandHandler
+from telegram.ext import Updater
 import os
 import json
 
@@ -21,7 +22,7 @@ TOKEN = config['TOKEN']
 
 # Starting the telegram bot
 bot = telegram.Bot(token=TOKEN)
-updater = Updater(token=TOKEN, use_context=True)
+updater = Updater(TOKEN)
 
 # Function to respond to /roll_dice command
 def roll_dice_handler(update, context):
