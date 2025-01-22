@@ -1,5 +1,4 @@
 ## Telegram Bot to Roll Two Dice
-![Runing](https://i.hizliresim.com/h7ok8er.png)
 
 This project is a dice game developed using Python programming language and the Telegram Bot API. This bot allows users to roll two dice with the `/roll_dice` command.
 
@@ -9,9 +8,6 @@ To run this project, you can follow these steps:
 1. Download or clone the project.
 2. Open the console and use the `cd` command to go to the directory of your project.
 3. Run the following command to create the `config.json` file and follow the instructions on the screen:
-    ```
-    python run.py 
-    ```
 4. Save your bot token to the `config.json` file.
 5. Install the required Python modules by running the following command: 
     ```
